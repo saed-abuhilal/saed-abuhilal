@@ -13,9 +13,6 @@ Backend Developer focused on building real backend systems.
 - Backend: ASP.NET Core API  
 - Features: Task CRUD, authentication, user-based data, API structure  
 
-**ReCreating Mentora**
--Fixing all the problems in the previous  project
-
 ## 🛠 Tech Stack
 - C#, .NET 9
 - ASP.NET Core Web API
